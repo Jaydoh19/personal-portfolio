@@ -81,10 +81,12 @@ const Hero = () => {
                   Contact Me <ArrowRight className="w-5 h-5" />
                 </Button>
               </a>
-              <AnimatedBorderButton>
-                <Download className='w-5 h-5' />
-                Download CV
-              </AnimatedBorderButton>
+              <a href="/jayden-blunt-resume.pdf" download>
+                <AnimatedBorderButton>
+                  <Download className='w-5 h-5' />
+                  Download CV
+                </AnimatedBorderButton>
+              </a>
             </div>
 
             {/*Social Links */}
