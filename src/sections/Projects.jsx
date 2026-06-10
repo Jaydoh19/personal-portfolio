@@ -11,6 +11,14 @@ const projects = [
     link: "https://nba-go.vercel.app/",
     github: "https://github.com/Jaydoh19",
   },
+  {
+    title: "SixStarSovereigns",
+    description: "A dynamic web application for managing and displaying information about the Six Star Sovereigns and media, a car group located in New York. The platform allows users to explore the group's activities, events, and member profiles through an interactive interface.",
+    image: "/projects/sssweb.png",
+    tags: ["React", "NodeJS", "MongoDB", "Tailwind CSS", "Mongodb Atlas", "Cloudinary"],
+    link: "http://www.sixstarsovereigns.com/",
+    github: "https://github.com/Jaydoh19/sixstarsovereign2"
+  }
 ]
 
 
